@@ -1,0 +1,149 @@
+# Cloudflare Workers
+/.wrangler/
+/worker/
+/dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Build outputs
+build/
+dist/
+out/
+
+# Temporary files
+tmp/
+temp/
+
+# Secret files
+secrets.json
+.secrets
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Database
+*.db
+*.sqlite
+
+# OS generated files
+Icon?
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Cloudflare specific
+wrangler.toml.backup
+.dev.vars
+
+# Testing
+test-results/
+coverage/
+.coverage
+
+# Documentation build
+docs/build/
+docs/_build/
+
+# Local development
+local/
+dev/
+
+# Archive files
+*.tar.gz
+*.zip
+*.rar
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# Security
+*.p12
+*.cer
+*.crt
+*.der
+*.key
+*.p7b
+*.p7r
+*.spc
+*.pfx
+
+# API Keys and Secrets (additional protection)
+*secret*
+*key*
+*token*
+*password*
+api-keys.txt
+credentials.json

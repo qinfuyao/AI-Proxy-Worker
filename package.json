@@ -1,0 +1,42 @@
+{
+  "name": "ai-proxy-worker",
+  "version": "1.0.0",
+  "description": "Enterprise-grade AI API Security Proxy - Enable your frontend applications to securely access AI services without exposing API keys, powered by Cloudflare's global edge network",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish",
+    "deploy:dev": "wrangler publish --env development",
+    "deploy:prod": "wrangler publish --env production",
+    "tail": "wrangler tail",
+    "test": "echo \"Tests will be added in future versions\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "proxy",
+    "deepseek",
+    "cloudflare-workers",
+    "api-gateway",
+    "edge-computing",
+    "serverless",
+    "chat-completion",
+    "ai-api",
+    "llm"
+  ],
+  "author": "qinfuyao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qinfuyao/AI-Proxy-Worker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qinfuyao/AI-Proxy-Worker/issues"
+  },
+  "homepage": "https://github.com/qinfuyao/AI-Proxy-Worker#readme",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

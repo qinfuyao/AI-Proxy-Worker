@@ -1,0 +1,3 @@
+name = "ai-proxy-worker"
+main = "worker.js"
+compatibility_date = "2025-08-17"
