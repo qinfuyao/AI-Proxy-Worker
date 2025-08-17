@@ -147,3 +147,6 @@ dev/
 *password*
 api-keys.txt
 credentials.json
+
+.CLAUDE.md
+.DS_Store
