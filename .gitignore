@@ -148,5 +148,5 @@ dev/
 api-keys.txt
 credentials.json
 
-.CLAUDE.md
+CLAUDE.md
 .DS_Store
