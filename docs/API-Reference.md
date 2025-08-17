@@ -633,4 +633,4 @@ function getCachedResponse(key) {
 
 ---
 
-**需要更多帮助？** 👉 [查看使用示例](./Examples) | [故障排除](./Troubleshooting)
+**需要更多帮助？** 👉 [查看使用示例](./Examples.md) | [故障排除](./Troubleshooting.md)

@@ -633,4 +633,4 @@ function getCachedResponse(key) {
 
 ---
 
-**Need More Help?** 👉 [View Usage Examples](./Examples.en) | [Troubleshooting](./Troubleshooting.en)
+**Need More Help?** 👉 [View Usage Examples](./Examples.en.md) | [Troubleshooting](./Troubleshooting.en.md)

@@ -568,4 +568,4 @@ curl -v -X POST https://your-worker.workers.dev/chat \
 
 ---
 
-**问题解决了？** 👉 [回到主页](./Home) | [查看更多示例](./Examples)
+**问题解决了？** 👉 [查看更多示例](./Examples.md) | [GitHub Issues](../../issues)

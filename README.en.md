@@ -151,7 +151,6 @@ Accept: text/event-stream
 ### 💬 Get Help
 - [📋 Issues](../../issues) - Report bugs or suggest features
 - [💡 Discussions](../../discussions) - Community discussion and experience sharing
-- [📖 Wiki](../../wiki) - Complete documentation and tutorials
 
 ### 🔧 Contribute
 - [🤝 Contributing Guide](./docs/Contributing.en.md) - How to participate in project development

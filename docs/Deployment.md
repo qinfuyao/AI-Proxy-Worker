@@ -37,7 +37,7 @@
 5. 复制并保存密钥（**注意：只显示一次**）
 
 ### 3. 准备项目文件
-确保你已经完成了 [安装指南](./Installation) 中的步骤，并且项目文件已就绪。
+确保你已经完成了 [安装指南](./Installation.md) 中的步骤，并且项目文件已就绪。
 
 ## 🚀 方法一：本地 CLI 部署（推荐）
 
@@ -411,11 +411,11 @@ wrangler secret put DEEPSEEK_API_KEY
 
 部署完成后，你可以：
 
-1. **[配置 API 使用](./API-Reference)** - 了解完整的 API 文档
-2. **[集成到应用](./Examples)** - 查看各种编程语言的集成示例  
-3. **[监控和维护](./Monitoring)** - 设置监控和日志分析
+1. **[配置 API 使用](./API-Reference.md)** - 了解完整的 API 文档
+2. **[集成到应用](./Examples.md)** - 查看各种编程语言的集成示例  
+3. **[监控和维护](./Monitoring.md)** - 设置监控和日志分析
 4. **[性能优化](./Performance)** - 优化 Worker 性能
 
 ---
 
-**部署成功？** 👉 [开始使用 API](./API-Reference)
+**部署成功？** 👉 [开始使用 API](./API-Reference.md)

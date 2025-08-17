@@ -470,4 +470,4 @@ curl -v -X POST https://your-worker.workers.dev/chat \
 
 ---
 
-**Issue Resolved?** 👉 [Back to Home](./Home.en) | [View More Examples](./Examples.en)
+**Issue Resolved?** 👉 [View More Examples](./Examples.en.md) | [GitHub Issues](../../issues)

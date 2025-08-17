@@ -273,9 +273,7 @@ ls worker.js wrangler.toml
 
 安装完成后，你可以：
 
-1. **[配置部署环境](./Deployment)** - 设置 Cloudflare 账户和密钥
-2. **[快速部署](./Quick-Setup)** - 5分钟部署到生产环境
-3. **[本地开发](./Development)** - 设置本地开发环境
+1. **[配置部署环境](./Deployment.md)** - 设置 Cloudflare 账户和密钥
 
 ## 🔧 故障排除
 
@@ -319,11 +317,11 @@ npm install -g wrangler
 
 如果遇到安装问题：
 
-1. 查看 [故障排除指南](./Troubleshooting)
+1. 查看 [故障排除指南](./Troubleshooting.md)
 2. 搜索 [GitHub Issues](../../issues)
 3. 在 [Discussions](../../discussions) 中提问
 4. 查看 [Cloudflare Workers 文档](https://developers.cloudflare.com/workers/)
 
 ---
 
-**安装完成？** 👉 [开始部署](./Deployment)
+**安装完成？** 👉 [开始部署](./Deployment.md)
