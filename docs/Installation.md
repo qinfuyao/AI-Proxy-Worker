@@ -318,8 +318,8 @@ npm install -g wrangler
 如果遇到安装问题：
 
 1. 查看 [故障排除指南](./Troubleshooting.md)
-2. 搜索 [📋 Issues](../../issues)
-3. 在 [💡 Discussions](../../discussions) 中提问
+2. 搜索 [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues)
+3. 在 [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions) 中提问
 4. 查看 [Cloudflare Workers 文档](https://developers.cloudflare.com/workers/)
 
 ---

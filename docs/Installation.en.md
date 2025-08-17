@@ -320,8 +320,8 @@ npm install -g wrangler
 If you encounter installation issues:
 
 1. Check [Troubleshooting Guide](./Troubleshooting.en)
-2. Search [📋 Issues](../../issues)
-3. Ask questions in [💡 Discussions](../../discussions)
+2. Search [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues)
+3. Ask questions in [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions)
 4. Check [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
 
 ---

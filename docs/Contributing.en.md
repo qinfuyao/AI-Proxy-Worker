@@ -249,8 +249,8 @@ All contributors will be recognized in:
 ## ❓ Getting Help
 
 ### Community Support
-- [💡 Discussions](../../discussions) - General questions
-- [📋 Issues](../../issues) - Bug reports and feature requests
+- [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions) - General questions
+- [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues) - Bug reports and feature requests
 - [Discord/Slack] - Real-time chat (if available)
 
 ### Code Review Process

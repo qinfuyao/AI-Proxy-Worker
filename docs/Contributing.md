@@ -249,8 +249,8 @@ docs/
 ## ❓ 获取帮助
 
 ### 社区支持
-- [💡 Discussions](../../discussions) - 一般问题
-- [📋 Issues](../../issues) - Bug 报告和功能请求
+- [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions) - 一般问题
+- [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues) - Bug 报告和功能请求
 - [Discord/Slack] - 实时聊天（如果可用）
 
 ### 代码审查流程

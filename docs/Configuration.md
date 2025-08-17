@@ -312,4 +312,4 @@ A: 修改 `CORS_HEADERS` 中的 `Access-Control-Allow-Origin`：
 
 ---
 
-**需要帮助？** 👉 [故障排除指南](./Troubleshooting.md) | [📋 Issues](../../issues)
+**需要帮助？** 👉 [故障排除指南](./Troubleshooting.md) | [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues)

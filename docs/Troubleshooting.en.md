@@ -8,7 +8,7 @@
 
 </div>
 
-This guide covers common issues you might encounter when using AI Proxy Worker and their solutions. If your issue isn't listed here, please submit a new issue report in [📋 Issues](../../issues).
+This guide covers common issues you might encounter when using AI Proxy Worker and their solutions. If your issue isn't listed here, please submit a new issue report in [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues).
 
 ## 🚨 Common Errors and Solutions
 
@@ -428,8 +428,8 @@ Check Interval: 5 minutes
 If the above solutions don't resolve your issue:
 
 ### 1. Search Existing Issues
-- Check [📋 Issues](../../issues)
-- Search [💡 Discussions](../../discussions)
+- Check [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues)
+- Search [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions)
 - Check [Cloudflare Community](https://community.cloudflare.com/)
 
 ### 2. Submit New Issue
@@ -465,9 +465,9 @@ curl -v -X POST https://your-worker.workers.dev/chat \
 
 - [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
 - [DeepSeek API Documentation](https://platform.deepseek.com/api-docs)
-- [💡 Discussions](../../discussions) - Community discussion
+- [💡 Discussions](https://github.com/qinfuyao/AI-Proxy-Worker/discussions) - Community discussion
 - Discord/Telegram groups (if available)
 
 ---
 
-**Issue Resolved?** 👉 [View More Examples](./Examples.en.md) | [📋 Issues](../../issues)
+**Issue Resolved?** 👉 [View More Examples](./Examples.en.md) | [📋 Issues](https://github.com/qinfuyao/AI-Proxy-Worker/issues)
