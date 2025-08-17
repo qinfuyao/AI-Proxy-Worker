@@ -249,8 +249,8 @@ All contributors will be recognized in:
 ## ❓ Getting Help
 
 ### Community Support
-- [GitHub Discussions](../../discussions) - General questions
-- [Issues](../../issues) - Bug reports and feature requests
+- [💡 Discussions](../../discussions) - General questions
+- [📋 Issues](../../issues) - Bug reports and feature requests
 - [Discord/Slack] - Real-time chat (if available)
 
 ### Code Review Process

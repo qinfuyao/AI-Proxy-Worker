@@ -8,7 +8,7 @@
 
 </div>
 
-本指南涵盖了使用 AI Proxy Worker 时可能遇到的常见问题及其解决方案。如果你遇到的问题不在此列表中，请在 [GitHub Issues](../../issues) 中提交新的问题报告。
+本指南涵盖了使用 AI Proxy Worker 时可能遇到的常见问题及其解决方案。如果你遇到的问题不在此列表中，请在 [📋 Issues](../../issues) 中提交新的问题报告。
 
 ## 🚨 常见错误及解决方案
 
@@ -526,8 +526,8 @@ Check Interval: 5 minutes
 如果上述解决方案都无法解决你的问题：
 
 ### 1. 搜索现有问题
-- 查看 [GitHub Issues](../../issues)
-- 搜索 [GitHub Discussions](../../discussions)
+- 查看 [📋 Issues](../../issues)
+- 搜索 [💡 Discussions](../../discussions)
 - 查看 [Cloudflare Community](https://community.cloudflare.com/)
 
 ### 2. 提交新问题
@@ -563,9 +563,9 @@ curl -v -X POST https://your-worker.workers.dev/chat \
 
 - [Cloudflare Workers 文档](https://developers.cloudflare.com/workers/)
 - [DeepSeek API 文档](https://platform.deepseek.com/api-docs)
-- [GitHub Discussions](../../discussions) - 社区讨论
+- [💡 Discussions](../../discussions) - 社区讨论
 - [Discord/Telegram 群组]（如果有）
 
 ---
 
-**问题解决了？** 👉 [查看更多示例](./Examples.md) | [GitHub Issues](../../issues)
+**问题解决了？** 👉 [查看更多示例](./Examples.md) | [📋 Issues](../../issues)
